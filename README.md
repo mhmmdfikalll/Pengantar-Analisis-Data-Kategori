@@ -1,2 +1,3 @@
-# Tugas-1-Pengantar-Analisis-Data-Kategori
- https://mhmmdfikalll.github.io/Tugas-1-Pengantar-Analisis-Data-Kategori/
+# Tugas-2-Pengantar-Analisis-Data-Kategori
+https://mhmmdfikalll.github.io/Pengantar-Analisis-Data-Kategori/P3_241061011/
+
